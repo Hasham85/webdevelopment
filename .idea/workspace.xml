@@ -1,31 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="acc31c26-de22-4142-a626-b2364dcc0610" name="Changes" comment="" />
+    <list default="true" id="acc31c26-de22-4142-a626-b2364dcc0610" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/opdracht1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/opdracht1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/opdracht3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/opdracht3/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/opdracht4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/opdracht4/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/opdracht5/image/link2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/opdracht5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/opdracht5/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/opdracht6/image/checked1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/opdracht6/image/unchecked1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/opdracht6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/opdracht6/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/develop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/develop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Hasham85"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Hasham85&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Hasham85/webdevelopment.git",
-    "accountId": "cea8c5c4-2d53-430d-846c-98c570708607"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Hasham85/webdevelopment.git&quot;,
+    &quot;accountId&quot;: &quot;cea8c5c4-2d53-430d-846c-98c570708607&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3LJly8UuEWwBaqMDSxZVdwYZdTJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,6 +63,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -40,13 +71,26 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "C:/Users/iqbal/Documents/GitHub/webdevelopment/Labo6/opdracht6/image",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\iqbal\Documents\GitHub\webdevelopment\Labo6\opdracht6\image" />
+      <recent name="C:\Users\iqbal\Documents\GitHub\webdevelopment\Labo6\opdracht5\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\iqbal\Documents\GitHub\webdevelopment\Labo6\opdracht5\image" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,7 +105,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1793180302776</updated>
-      <workItem from="1793180303805" duration="354000" />
+      <workItem from="1793180303805" duration="437000" />
+      <workItem from="1794174083272" duration="807000" />
+      <workItem from="1794227893081" duration="991000" />
+      <workItem from="1794305828182" duration="7942000" />
+      <workItem from="1794334708397" duration="7046000" />
+      <workItem from="1794343561344" duration="7254000" />
     </task>
     <servers />
   </component>
